@@ -1,7 +1,8 @@
 # WEB语言学习路径
 
 ## 1.开发环境服务安装以及开发工具的安装使用,在页面上输出Hello  World     
-demo:php https://github.com/xv700/learning_way/tree/main/PHP_demo  
+我们不想大家在环境搭建上浪费时间，推荐在window下使用PHPStudy，他可以支持java和PHP两个版本的环境。  
+推荐链接：https://www.xp.cn/download.html  
 
 ## 2.基础教程：  
 ### 输出
