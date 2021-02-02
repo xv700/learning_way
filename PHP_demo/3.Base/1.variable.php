@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>变量声明</title>
+</head>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>变量声明</h1>
 
 <?php
 $x=5;
